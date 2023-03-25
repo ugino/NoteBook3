@@ -5,11 +5,13 @@ The app uses the TinyMCE text editor to provide a rich editing experience for th
 
 # Features
 Create new notes with a title and a body.
-Edit and delete existing notes.
-Rich text editing with the TinyMCE editor.
-Local storage of notes using the browser's localStorage.
-Responsive design that works on desktop and mobile devices.
-Usage
+<br>Edit and delete existing notes.
+<br>Rich text editing with the TinyMCE editor.
+<br>Local storage of notes using the browser's localStorage.
+<br>Responsive design that works on desktop.
+
+
+# Usage
 To use the app, simply clone the repository and run the following commands:
 
 Copy code
@@ -21,13 +23,13 @@ This will start the development server, and you can access the app by visiting h
 The app is built using the following technologies:
 
 `React - A popular JavaScript library for building user interfaces.`
-`Next.js - A framework for building server-rendered React applications.`
-`TinyMCE - A powerful WYSIWYG editor for rich text editing.`
+<br>`Next.js - A framework for building server-rendered React applications.`
+<br>`TinyMCE - A powerful WYSIWYG editor for rich text editing.`
 
-Credits
+# Credits
 The app was built by [Gino Parages]. Special thanks to the creators of React, Next.js, and TinyMCE for their amazing tools and resources.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for checking out the Todo App! I hope it helps you stay organized and productive. If you have any questions or feedback, please feel free to reach out.
