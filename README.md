@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Todo App
+This is a simple Todo app built using React and Next.js. It allows you to create and manage notes with a title and a body, and the notes are stored locally using the browser's localStorage.
 
-## Getting Started
+The app uses the TinyMCE text editor to provide a rich editing experience for the note's body. TinyMCE is a popular WYSIWYG editor that provides a variety of formatting and customization options.
 
-First, run the development server:
+# Features
+Create new notes with a title and a body.
+Edit and delete existing notes.
+Rich text editing with the TinyMCE editor.
+Local storage of notes using the browser's localStorage.
+Responsive design that works on desktop and mobile devices.
+Usage
+To use the app, simply clone the repository and run the following commands:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Copy code
+`npm install`
+`npm run dev`
+This will start the development server, and you can access the app by visiting http://localhost:3000 in your web browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Technologies
+The app is built using the following technologies:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+`React - A popular JavaScript library for building user interfaces.`
+`Next.js - A framework for building server-rendered React applications.`
+`TinyMCE - A powerful WYSIWYG editor for rich text editing.`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Credits
+The app was built by [Gino Parages]. Special thanks to the creators of React, Next.js, and TinyMCE for their amazing tools and resources.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Thank you for checking out the Todo App! I hope it helps you stay organized and productive. If you have any questions or feedback, please feel free to reach out.
 
-## Learn More
+# Screenshots
+Editing Text
+<img width="1697" alt="image" src="https://user-images.githubusercontent.com/101158017/227705592-3373ba64-708a-4927-b207-3e984e4051a6.png">
+Saved Code
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/101158017/227705709-63c73465-36ac-4eb7-836f-09d59d8fac0a.png">
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
