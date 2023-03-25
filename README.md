@@ -33,9 +33,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thank you for checking out the Todo App! I hope it helps you stay organized and productive. If you have any questions or feedback, please feel free to reach out.
 
 # Screenshots
-Editing Text
-<img width="1697" alt="image" src="https://user-images.githubusercontent.com/101158017/227705592-3373ba64-708a-4927-b207-3e984e4051a6.png">
-Saved Code
-<img width="571" alt="image" src="https://user-images.githubusercontent.com/101158017/227705709-63c73465-36ac-4eb7-836f-09d59d8fac0a.png">
+<br>
+<h3>Editing Text
+<br><img width="1697" alt="image" src="https://user-images.githubusercontent.com/101158017/227705592-3373ba64-708a-4927-b207-3e984e4051a6.png">
+<br>
+ <br>Saved Code
+<br><img width="571" alt="image" src="https://user-images.githubusercontent.com/101158017/227705709-63c73465-36ac-4eb7-836f-09d59d8fac0a.png">
 
 
