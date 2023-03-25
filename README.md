@@ -3,6 +3,8 @@ This is a simple Todo app built using React and Next.js. It allows you to create
 
 The app uses the TinyMCE text editor to provide a rich editing experience for the note's body. TinyMCE is a popular WYSIWYG editor that provides a variety of formatting and customization options.
 
+Take it for a ride: https://note-book3.vercel.app/
+
 # Features
 Create new notes with a title and a body.
 <br>Edit and delete existing notes.
